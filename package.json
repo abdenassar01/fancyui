@@ -6,5 +6,11 @@
   "repository": "https://github.com/abdenassar01/fancyui",
   "author": "abdenassar01",
   "license": "MIT free and open source",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "@types/react": "^18.0.26",
+    "react": "^18.2.0",
+    "styled-components": "^5.3.6",
+    "typescript": "^4.9.4"
+  }
 }
